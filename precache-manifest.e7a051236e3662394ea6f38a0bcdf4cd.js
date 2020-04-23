@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67f1cffdcee8681642f2a994e765589f",
+    "revision": "5841db7fbc6305c7de6779f3b4391c9c",
     "url": "/planka/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/planka/static/css/2.ff9ea1f9.chunk.css"
   },
   {
-    "revision": "a104fd44f72d629c7345",
+    "revision": "cb08931b3071f15105f8",
     "url": "/planka/static/css/main.7cfa9bde.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/planka/static/js/4.4e01097b.chunk.js"
   },
   {
-    "revision": "a104fd44f72d629c7345",
-    "url": "/planka/static/js/main.91c2591e.chunk.js"
+    "revision": "cb08931b3071f15105f8",
+    "url": "/planka/static/js/main.e0fdd825.chunk.js"
   },
   {
     "revision": "72fead90afa58db91f7a",

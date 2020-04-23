@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/planka/static/css/main.7cfa9bde.chunk.css",
-    "main.js": "/planka/static/js/main.91c2591e.chunk.js",
-    "main.js.map": "/planka/static/js/main.91c2591e.chunk.js.map",
+    "main.js": "/planka/static/js/main.e0fdd825.chunk.js",
+    "main.js.map": "/planka/static/js/main.e0fdd825.chunk.js.map",
     "runtime-main.js": "/planka/static/js/runtime-main.e37b250f.js",
     "runtime-main.js.map": "/planka/static/js/runtime-main.e37b250f.js.map",
     "static/css/2.ff9ea1f9.chunk.css": "/planka/static/css/2.ff9ea1f9.chunk.css",
@@ -13,7 +13,7 @@
     "static/js/4.4e01097b.chunk.js": "/planka/static/js/4.4e01097b.chunk.js",
     "static/js/4.4e01097b.chunk.js.map": "/planka/static/js/4.4e01097b.chunk.js.map",
     "index.html": "/planka/index.html",
-    "precache-manifest.2fd502afa0eb8e58bc62cf3d3c8021b1.js": "/planka/precache-manifest.2fd502afa0eb8e58bc62cf3d3c8021b1.js",
+    "precache-manifest.e7a051236e3662394ea6f38a0bcdf4cd.js": "/planka/precache-manifest.e7a051236e3662394ea6f38a0bcdf4cd.js",
     "service-worker.js": "/planka/service-worker.js",
     "static/css/2.ff9ea1f9.chunk.css.map": "/planka/static/css/2.ff9ea1f9.chunk.css.map",
     "static/css/main.7cfa9bde.chunk.css.map": "/planka/static/css/main.7cfa9bde.chunk.css.map",
